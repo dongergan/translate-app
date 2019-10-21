@@ -1,0 +1,22 @@
+.history-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+  
+}
+.container {
+  background-color: white;
+  width: 100%;
+}
+.title {
+  font-size: 30rpx;
+  color: #8995a1;
+ 
+}
+
+.item {
+  margin-top: 20rpx;
+
+ 
+}
+
